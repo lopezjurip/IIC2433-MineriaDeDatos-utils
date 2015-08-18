@@ -1,2 +1,3 @@
-# IIC2433-MineriaDeDatos-utils
-Repositorio para código de utilidad para este ramo.
+# IIC2433 - Mineria De Datos - Código de utilidad
+
+Repositorio para código de utilidad personal (pero libro de uso) para este ramo.
